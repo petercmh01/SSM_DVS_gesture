@@ -1,2 +1,3 @@
 # SSM_DVS_gesture
-Practice play with state space model with event based dataset
+
+A colab notebook implementation of cnn + mamba for event-based (dvs) gesture recognition
